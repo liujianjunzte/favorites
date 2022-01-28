@@ -1,8 +1,9 @@
-网站收藏
+我的笔记
 =====================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   kernel
+   kernel/index
+   tools/index
 

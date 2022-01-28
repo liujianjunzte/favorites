@@ -3,14 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-收藏夹
+我的笔记
 =====================================
 
 .. toctree::
    :maxdepth: 2
 
    pages/index
-   tools/index
 
 免责声明
 ------------------
