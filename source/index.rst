@@ -10,7 +10,7 @@
    :maxdepth: 2
    :caption: Contents:
 
-
+   tools/index
 
 Indices and tables
 ==================
