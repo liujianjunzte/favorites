@@ -8,8 +8,8 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   pages/index
    tools/index
 
 Indices and tables
