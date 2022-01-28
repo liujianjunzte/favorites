@@ -1,4 +1,4 @@
-RestructedText手册
+reStructureedText简明手册
 ============================
 
 
